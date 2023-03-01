@@ -1,1 +1,5 @@
 This is dmeo 1
+
+Adding some new lines in the file so that there could be some conflicts in the merging of the branch.
+And kshitija is not changing the file currently, only i am doing this
+kshitija if you are seeing this please checkout to the new branch and add some lines in any existing file so that there could be some conflicts while merging the branches.
